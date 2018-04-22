@@ -10,8 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["x17123739@student.ncirl.ie"]
 
   spec.summary       = %q{Calculate the depreciated value of the car based on the parameter}
-  spec.description   = %q{Estimate the price of the used car based on the condition}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/x17123739/depreciationCalculator"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
